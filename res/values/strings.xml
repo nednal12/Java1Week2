@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Deal Me In</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="view_array">
+        <item>Restaurant</item>
+        <item>Entertainment</item>
+        <item>Beauty</item>
+        <item>Services</item>
+        <item>Shopping</item>
+    </string-array>
+    
+    <string-array name="restaurant_array">
+        <item>Fridays</item>
+        <item>Tuesdays</item>
+        <item>LongHorn</item>
+    </string-array>
+
+</resources>
